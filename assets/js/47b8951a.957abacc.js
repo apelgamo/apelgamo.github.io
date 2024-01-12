@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrmtest=self.webpackChunkcrmtest||[]).push([[136],{8119:e=>{e.exports=JSON.parse('{"permalink":"/apelgamo.github.io/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

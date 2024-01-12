@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrmtest=self.webpackChunkcrmtest||[]).push([[2948],{7416:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/apelgamo.github.io/blog/tags/docusaurus","allTagsPath":"/apelgamo.github.io/blog/tags","count":4,"unlisted":false}')}}]);

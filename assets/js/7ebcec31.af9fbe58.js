@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrmtest=self.webpackChunkcrmtest||[]).push([[5702],{8197:e=>{e.exports=JSON.parse('{"permalink":"/apelgamo.github.io/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
